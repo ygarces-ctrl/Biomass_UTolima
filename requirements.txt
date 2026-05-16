@@ -1,0 +1,7 @@
+earthengine-api
+ipyleaflet
+ipywidgets
+numpy
+pandas
+matplotlib
+scikit-learn
